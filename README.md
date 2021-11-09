@@ -16,7 +16,7 @@ We've written a non-exhaustive list of what you can and cannot do.
 | :heavy_check_mark: Use the [provided branding assets](https://github.com/devstrons/artwork) | :x: Create your own versions of the [original files](https://github.com/devstrons/artwork). |                             |
 | :heavy_check_mark: Use the original colors                  |               :x: Use our branding assets for your own use-case without permission
 | :heavy_check_mark: Use our branding assets commercially      |               :x: Sell our branding assets (for your own use-case) without permission
-| :heavy_check_mark: Use the current branding assets size      |               :x: Violate the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license guidelines
+| :heavy_check_mark: Use the current branding assets size      |               :x: Violate the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) license guidelines
 | :heavy_check_mark: Use our branding assets for new community partnerships with DEVSTRONS'                     |               :x: Mix/integrate your logo with our branding assets
 
 ## 📧 Contact
