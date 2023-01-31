@@ -6,6 +6,14 @@ Here you can find all of our assets regarding DEVSTRONS'.
 All of our assets can be found at their respective folders.\
 We've written a non-exhaustive list of what you can and cannot do.
 
+
+## Brand Colors
+
+- ![#5CC1DE](https://placehold.co/15x15/5CC1DE/5CC1DE.png) `#5CC1DE` or `rgb(92, 193, 222)`
+- ![#338EDA](https://placehold.co/15x15/338EDA/338EDA.png) `#338EDA` or `rgb(51, 142, 218)`
+- ![#0F172A](https://placehold.co/15x15/0F172A/0F172A.png) `#0F172A` or `rgb(15, 23, 42)`
+
+
 ## 📜 Guidelines
 
 | Do this                                                         | Don't do this                                                       |
